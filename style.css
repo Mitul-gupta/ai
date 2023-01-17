@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+
+#note
+{
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size: medium;
+}
+
+.heading{
+background-color: royalblue;
+color: white;
+font-family: cursive;
+width: 500px;
+border-radius: 15px;
+}
